@@ -57,6 +57,6 @@ MIT.
 
 ## Related
 
-- [color-format-converter](https://github.com/0xelitesystem/color-format-converter), convert between HEX, RGB, HSL, and HSV
+- [hex-rgb-hsl-hsv-converter](https://github.com/0xelitesystem/hex-rgb-hsl-hsv-converter), convert between HEX, RGB, HSL, and HSV
 - [url-parser-and-query-editor](https://github.com/0xelitesystem/url-parser-and-query-editor), break a URL into parts and edit query params
 - [word-and-character-counter](https://github.com/0xelitesystem/word-and-character-counter), count words, characters, and reading time
