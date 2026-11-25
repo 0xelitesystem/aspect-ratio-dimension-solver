@@ -1,8 +1,8 @@
-# Aspect Ratio Calculator
+# Aspect Ratio Dimension Solver
 
 Turn pixel dimensions into a simplified ratio, or solve for a missing dimension from a ratio. No server, no tracking, no third-party scripts.
 
-**Live demo:** https://0xelitesystem.github.io/aspect-ratio-calculator/
+**Live demo:** https://0xelitesystem.github.io/aspect-ratio-dimension-solver/
 
 ## Use
 
@@ -26,8 +26,8 @@ Everything runs in your browser. The numbers you type never leave your machine. 
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/aspect-ratio-calculator
-cd aspect-ratio-calculator
+git clone https://github.com/0xelitesystem/aspect-ratio-dimension-solver
+cd aspect-ratio-dimension-solver
 # Open index.html in your browser, or:
 python -m http.server 8000
 ```
@@ -59,4 +59,4 @@ MIT.
 
 - [hex-rgb-hsl-hsv-converter](https://github.com/0xelitesystem/hex-rgb-hsl-hsv-converter), convert between HEX, RGB, HSL, and HSV
 - [url-parser-and-query-editor](https://github.com/0xelitesystem/url-parser-and-query-editor), break a URL into parts and edit query params
-- [word-and-character-counter](https://github.com/0xelitesystem/word-and-character-counter), count words, characters, and reading time
+- [word-count-reading-time](https://github.com/0xelitesystem/word-count-reading-time), count words, characters, and reading time
